@@ -23,7 +23,6 @@ const Salvar = styled.Button`
   
 `;
 
-
 const NameArea = styled.View`
   padding: 20px;
   background-color: #CCC;
